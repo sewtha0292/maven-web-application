@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>:http://18.118.158.71:8081/repository/hsbc-snapshot/ </url>
+	      <url>http://18.118.158.71:8081/repository/hsbc-snapshot/ </url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
